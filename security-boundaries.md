@@ -1,6 +1,6 @@
-# Security Boundaries
+# Security Boundary
 
-Within the security boundaries established by Mi Eco Cloud, the security of services and data in the cloud  will be protected effectively for Mi Ecosystem enterprises and cooperation parters.
+Within the security boundary established by Mi Eco Cloud, the security of services and data in the cloud  will be protected effectively for Mi Ecosystem enterprises and cooperation parters.
 
 The Mi Security team conduct continuous monitoring on all domain names and IPs in Mi Eco Cloud. If any problems are found, the securiyt team will promptly notify the corresponding businesses.
 
