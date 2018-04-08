@@ -14,11 +14,11 @@ User Management includes the management of users, groups, and roles.  
 
 Login Mi Eco Cloud (cloud.mi.com) console, choose KSYun-Beijing6 region, and click "User Management".
 
-![ ](/UserMgmt-1.png)  
+![ ](/UM-1.png)  
 
 After you enter the User Management page, switch to User tab and click "Create New User" button to create a new user.
 
-![ ](/UserMgmt-2.png)  
+![ ](/UM-2.png)  
 
 ## 2. Role
 
@@ -26,13 +26,13 @@ After you enter the User Management page, switch to User tab and click "Create N
 
 After you switch to Role tab, click "Create New Role" button to create a new role.
 
-![ ](/UserMgmt-3.png)  
+![ ](/UM-3.png)  
 
 ### 2.2 How do I add permissions to a role?
 
 Select a created role, and add a permission of a specific service's sepecific resource to the role.
 
-![ ](/UserMgmt-4.png)  
+![ ](/UM-4.png)  
 
 ## 3. Group
 
@@ -40,14 +40,14 @@ Select a created role, and add a permission of a specific service's sepecific re
 
 After you switch to Group tab, click "Create New Group" to create a new group.
 
-![ ](/UserMgmt-5.png)  
+![ ](/UM-5.png)  
  Once the group is created, the next page will be the group detail page.
 
 ### 3.2 Binding roles to the group
 
 On the group detail page, you can find the Role module. By clicking "Edit" and then "Add Role" buttons, you can add the roles to the group so that corresponding permissions will be granted to this group after saved.
 
-![ ](/UserMgmt-6.png)  
+![ ](/UM-6.png)  
 
 ## Tips
 
