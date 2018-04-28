@@ -1,8 +1,8 @@
-# Security Audits
+# Security Audit
 
 ## Objective
 
-For Mi Ecosystem products, we conduct security audits to help to avoid serious user privacy and data security issues during the beta testing stage or after official release.
+For Mi Ecosystem products, we conduct security audit to help to avoid serious user privacy and data security issues during the beta testing stage or after official release.
 
 ## Focus
 
@@ -14,4 +14,4 @@ The security documents of new products should be submitted for security audit pr
 
 ## Background
 
-In 2015, we found some security and privacy issues in a number of new Mi Ecosystem enterprise products. Starting from 2016, all new Ecosystem enterprise products, especially for Mi Brands, need to proceed Mi Security's security audits during design stage and prototype testing prior to the beta testing. Previously released products will be audited in due course. Depending on the actual situation of the product, Mi Security may spend a lot of time conducting several audits at different stages, or just carry out a single audit.
+In 2015, we found some security and privacy issues in a number of new Mi Ecosystem enterprise products. Starting from 2016, all new Ecosystem enterprise products, especially for Mi Brands, need to proceed Mi Security's security audit during design stage and prototype testing prior to the beta testing. Previously released products will be audited in due course. Depending on the actual situation of the product, Mi Security may spend a lot of time conducting several audits at different stages, or just carry out a single audit.
