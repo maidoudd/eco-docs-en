@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# FAQ
 
 ### 1. Which browsers does Mi Eco Cloud website support?
 
